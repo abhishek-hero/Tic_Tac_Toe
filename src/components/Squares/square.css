@@ -1,0 +1,26 @@
+.square-btn {
+    background-color: turquoise;
+    border: 1px solid grey;
+    /* border: none;
+    background-color: transparent; */
+    float: left;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0%;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 80px;
+    margin: 3px;
+}
+
+.square-btn:hover{
+    cursor: pointer;
+    box-shadow: 6px 6px 1px red;
+}
+
+.square:focus{
+    outline: none;
+}

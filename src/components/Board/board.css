@@ -1,0 +1,38 @@
+.border-row::after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.jc-center {
+    justify-content: center;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0;
+
+}
+
+.delete {
+    background-color: rgb(199, 9, 9);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 3px;
+}

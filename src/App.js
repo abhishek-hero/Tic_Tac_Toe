@@ -6,6 +6,7 @@ function App() {
 
   return (
     <div className="App-header">
+      <p>Abhishek's - Tic-Tac-Toe</p>
       <Board></Board>
     </div>
   );

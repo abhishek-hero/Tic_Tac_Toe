@@ -13,4 +13,4 @@ Tic-Tac-Toe game built using react.
 ## Author
 https://abhishek-mukade.vercel.app/
 
-Project Link: [https://recipe-search-lake.vercel.app/](https://recipe-search-lake.vercel.app/)
+Project Link: [https://tic-tac-toe-sigma-one.vercel.app/](https://tic-tac-toe-sigma-one.vercel.app/)
